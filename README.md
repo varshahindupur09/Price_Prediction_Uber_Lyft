@@ -33,3 +33,6 @@ MAE 1.01, MSE 2.58, RMAE 1.61.
 Key Influencers:
 
 Surge multiplier, product ID, cab name, and distance heavily impact ride prices.
+
+
+![image](https://github.com/varshahindupur09/Price_Prediction_Uber_Lyft/assets/114629181/e93f9fcc-3fa6-40a1-bc1a-5d0c9ac2244c)
